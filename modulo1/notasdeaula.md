@@ -1,4 +1,4 @@
-##<center> Notas do Módulo 1 de:<br> *"Desvendando o GitHub"* <br> curso da primeira turma de *"Programação Web para Iniciantes"* da WoMakers Code.</center>
+##<center> Notas do Módulo 1:<br><br> *"Conceitos iniciais"* </center>
 <br>
 ####Conceitos Iniciais:
  - Versionamento

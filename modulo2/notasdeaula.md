@@ -1,4 +1,4 @@
-##<center> Notas do Módulo 2 de:<br> *"Desvendando o GitHub"* <br> curso da primeira turma de *"Programação Web para Iniciantes"* da WoMakers Code.</center>
+##<center> Notas do Módulo 2:<br><br> *"Criando seu primeiro repositório e aprendendo os comandos mais utilizados"* </center>
 <br>
 ####Criando repositórios localmente:
 1. No Git Bash, escreve: mkdir nomedapastaquesequercriar Obs.: para mudar o diretório utiliza o comando “cd nomediretorio: “
