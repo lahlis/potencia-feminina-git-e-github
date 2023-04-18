@@ -1,6 +1,8 @@
-##<center> Notas do Módulo 1:<br><br> *"Conceitos iniciais"* </center>
+# Notas do Módulo 1:<br><br> *"Conceitos iniciais"* 
 <br>
-####Conceitos Iniciais:
+
+*Conceitos Iniciais:*
+
  - Versionamento
         - Controle de versões por numerações de históricos diferentes
         - Tudo que é adicionado no Git, ele recebe um código para cada alteração que significa o estado do projeto. Esse código nunca se repete
