@@ -1,14 +1,17 @@
-##<center> Notas do Módulo 2:<br><br> *"Criando seu primeiro repositório e aprendendo os comandos mais utilizados"* </center>
+## Notas do Módulo 2:<br><br> *"Criando seu primeiro repositório e aprendendo os comandos mais utilizados"* 
 <br>
-####Criando repositórios localmente:
-1. No Git Bash, escreve: mkdir nomedapastaquesequercriar Obs.: para mudar o diretório utiliza o comando “cd nomediretorio: “
-2. Para abrir o VsCode: code .
-3. Dentro do VsCode, abre o terminal e escreve: git config --global user.name “Nome da Pessoa” e git config  --global user.email “emaildapessoa”
-4. Confere se as configurações estão ok com git config --list
-5. Para inicializar o diretório: git init → assim o git vai entender que o conteúdo é rastreável
-6. Para conectar os repositórios remoto e local: cria o repositório no GitHub, depois escreve no terminal do local “`git remote add origin git@github.com:user/nome-do-repositorio-no-github.git`"
+
+*Criando repositórios localmente:*
 <br>
-####Comandos mais utilizados:
+1. No Git Bash, escreve: mkdir nomedapastaquesequercriar Obs.: para mudar o diretório utiliza o comando “cd nomediretorio:“<br>
+2. Para abrir o VsCode: code .<br>
+3. Dentro do VsCode, abre o terminal e escreve: git config --global user.name “Nome da Pessoa” e git config  --global user.email “emaildapessoa”<br>
+4. Confere se as configurações estão ok com git config --list<br>
+5. Para inicializar o diretório: git init → assim o git vai entender que o conteúdo é rastreável<br>
+6. Para conectar os repositórios remoto e local: cria o repositório no GitHub, depois escreve no terminal do local “`git remote add origin git@github.com:user/nome-do-repositorio-no-github.git`"<br>
+<br><br>
+
+*Comandos mais utilizados:*
 - git status
     - Verifica o status dos arquivos e pastas dentro do repositório
 - git add
